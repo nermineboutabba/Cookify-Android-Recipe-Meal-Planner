@@ -1,0 +1,22 @@
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.iml
+
+# Secrets & Environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Android / Kotlin / Java
+.gradle/
+build/
+app/build/
+local.properties
+captures/
+*.apk
+*.aab

@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@android:drawable/ic_menu_view"/>
+
+    <item
+        android:id="@+id/nav_favorites"
+        android:title="Favorites"
+        android:icon="@android:drawable/btn_star_big_on"/>
+
+    <item
+        android:id="@+id/nav_calendar"
+        android:title="Planner"
+        android:icon="@android:drawable/ic_menu_my_calendar"/>
+
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:title="Logout"/>
+
+</menu>
